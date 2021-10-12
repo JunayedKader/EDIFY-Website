@@ -1,0 +1,19 @@
+main{
+    background-image: url(images/BG.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+#ui{
+    background-color: dimgray;
+    padding: 30px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+#ui label,h1{
+    color: #fff;
+}
+
+.anchtag{
+    color: rgba(67, 134, 196, 0.884) !important;
+}

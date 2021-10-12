@@ -1,0 +1,29 @@
+.nav-link:hover{
+    color:cadetblue;
+}
+
+.imgHeight{
+    height:500px;
+}
+
+.cardImgHeight{
+    height: 150px;
+}
+
+.card{
+    box-shadow: 5px 5px 10px #888888;
+    /* height: 380px; */
+}
+
+.topCategoryHover:hover{
+    opacity: 30%;
+}
+
+.newsletterTitle{
+    color: #fff;
+}
+
+.footerAnchorTag{
+    text-decoration: none;
+    color: azure;
+}
